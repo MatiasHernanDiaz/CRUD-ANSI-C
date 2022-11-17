@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="competidor.c" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2070" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="validacion.h" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1794" topLine="23" />
+		</Cursor>
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="25832" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="intefaz.h" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1078" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="intefaz.c" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="459" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="validacion.c" open="1" top="1" tabpos="9" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4446" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="archivos.c" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="374" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="competidor.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3478" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="archivos.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1321" topLine="0" />
+		</Cursor>
+	</File>
+	<Target name="Debug" top="validacion.c">
+		<File name="main.c" />
+		<File name="archivos.h" />
+		<File name="archivos.c" />
+		<File name="competidor.h" />
+		<File name="competidor.c" />
+		<File name="intefaz.h" />
+		<File name="intefaz.c" />
+		<File name="validacion.h" />
+		<File name="validacion.c" />
+	</Target>
+</CodeBlocks_layout_file>

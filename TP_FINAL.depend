@@ -1,0 +1,137 @@
+# depslib dependency file v1.0
+1667873930 source:c:\users\matias\documents\matias\unsam\lab_computacion2\compilado_de_practica_labcomp2\tp_final\archivos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<direct.h>
+	<ctype.h>
+	<time.h>
+	"archivos.h"
+	"competidor.h"
+	"intefaz.h"
+	"validacion.h"
+
+1667854833 c:\users\matias\documents\matias\unsam\lab_computacion2\compilado_de_practica_labcomp2\tp_final\archivos.h
+
+1667931214 source:c:\users\matias\documents\matias\unsam\lab_computacion2\compilado_de_practica_labcomp2\tp_final\competidor.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<direct.h>
+	<ctype.h>
+	<time.h>
+	"archivos.h"
+	"competidor.h"
+	"intefaz.h"
+	"validacion.h"
+
+1667690076 c:\users\matias\documents\matias\unsam\lab_computacion2\compilado_de_practica_labcomp2\tp_final\competidor.h
+
+1667933130 source:c:\users\matias\documents\matias\unsam\lab_computacion2\compilado_de_practica_labcomp2\tp_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<direct.h>
+	<ctype.h>
+	<time.h>
+	"archivos.h"
+	"competidor.h"
+	"intefaz.h"
+	"validacion.h"
+
+1667933130 c:\users\matias\documents\matias\unsam\lab_computacion2\compilado_de_practica_labcomp2\tp_final\intefaz.h
+
+1667934156 source:c:\users\matias\documents\matias\unsam\lab_computacion2\compilado_de_practica_labcomp2\tp_final\intefaz.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<direct.h>
+	<ctype.h>
+	<time.h>
+	"archivos.h"
+	"competidor.h"
+	"intefaz.h"
+	"validacion.h"
+
+1667931214 c:\users\matias\documents\matias\unsam\lab_computacion2\compilado_de_practica_labcomp2\tp_final\validacion.h
+
+1667932203 source:c:\users\matias\documents\matias\unsam\lab_computacion2\compilado_de_practica_labcomp2\tp_final\validacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<direct.h>
+	<ctype.h>
+	<time.h>
+	"archivos.h"
+	"competidor.h"
+	"intefaz.h"
+	"validacion.h"
+
+1667873930 source:c:\users\matias\documents\matias\unsam\lab_computacion2\compilado_de_practica_labcomp2\tp_final_diaz_matias_hernan\archivos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<direct.h>
+	<ctype.h>
+	<time.h>
+	"archivos.h"
+	"competidor.h"
+	"intefaz.h"
+	"validacion.h"
+
+1667958169 c:\users\matias\documents\matias\unsam\lab_computacion2\compilado_de_practica_labcomp2\tp_final_diaz_matias_hernan\archivos.h
+
+1667690076 c:\users\matias\documents\matias\unsam\lab_computacion2\compilado_de_practica_labcomp2\tp_final_diaz_matias_hernan\competidor.h
+
+1667933130 c:\users\matias\documents\matias\unsam\lab_computacion2\compilado_de_practica_labcomp2\tp_final_diaz_matias_hernan\intefaz.h
+
+1668723193 c:\users\matias\documents\matias\unsam\lab_computacion2\compilado_de_practica_labcomp2\tp_final_diaz_matias_hernan\validacion.h
+
+1667931214 source:c:\users\matias\documents\matias\unsam\lab_computacion2\compilado_de_practica_labcomp2\tp_final_diaz_matias_hernan\competidor.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<direct.h>
+	<ctype.h>
+	<time.h>
+	"archivos.h"
+	"competidor.h"
+	"intefaz.h"
+	"validacion.h"
+
+1667957286 source:c:\users\matias\documents\matias\unsam\lab_computacion2\compilado_de_practica_labcomp2\tp_final_diaz_matias_hernan\intefaz.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<direct.h>
+	<ctype.h>
+	<time.h>
+	"archivos.h"
+	"competidor.h"
+	"intefaz.h"
+	"validacion.h"
+
+1668724227 source:c:\users\matias\documents\matias\unsam\lab_computacion2\compilado_de_practica_labcomp2\tp_final_diaz_matias_hernan\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<direct.h>
+	<ctype.h>
+	<time.h>
+	"archivos.h"
+	"competidor.h"
+	"intefaz.h"
+	"validacion.h"
+
+1668723672 source:c:\users\matias\documents\matias\unsam\lab_computacion2\compilado_de_practica_labcomp2\tp_final_diaz_matias_hernan\validacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<direct.h>
+	<ctype.h>
+	<time.h>
+	"archivos.h"
+	"competidor.h"
+	"intefaz.h"
+	"validacion.h"
+
