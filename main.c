@@ -1,3 +1,13 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <direct.h>
+#include <ctype.h>
+#include <time.h>
+#include "archivos.h"
+#include "competidor.h"
+#include "intefaz.h"
+#include "validacion.h"
 
 struct CorredorEstructura{
     int orden;
